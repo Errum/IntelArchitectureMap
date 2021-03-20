@@ -4,7 +4,7 @@ The Intelligence Architecture Map is based on interviews of industry experts, fo
 
 An article that describes it and the process can be found here: https://www.linkedin.com/pulse/intelligence-architecture-map-freddy-m/
 
-A PDF and an PNG can be found here:
+A PDF and an PNG can be found here (right-click to download):
 
 [210302 - Intelligence Architecture.pdf](https://github.com/Errum/IntelArchitectureMap/files/6175595/210302.-.Intelligence.Architecture.pdf)
 
