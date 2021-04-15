@@ -11,7 +11,9 @@ A PDF and an PNG can be found here (right-click to download):
 [Intelligence Architecture ver 0.7.5 April 2021.pdf](https://github.com/Errum/IntelArchitectureMap/files/6317216/Intelligence.Architecture.ver.0.7.5.pdf)
 
 
+
 ARCHIVE:
+
 [Intelligence Architecture ver 0.7 March 2021.pdf](https://github.com/Errum/IntelArchitectureMap/files/6175609/Intelligence.Architecture.ver.0.7.March.2021.pdf)
 
 [Intelligence Architecture ver 0 7 March 2021.png](https://user-images.githubusercontent.com/48282036/111870609-fe989400-8985-11eb-9457-d6b26079c966.png)
