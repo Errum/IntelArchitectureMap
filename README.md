@@ -7,4 +7,5 @@ An article that describes it and the process can be found here: https://www.link
 You can download the PDF by right-clicking and download:
 
 
-[210711 - Intelligence Architecture v0.7.22.pdf](https://github.com/Errum/IntelArchitectureMap/files/6801535/210711.-.Intelligence.Architecture.v0.7.22.pdf)
+[210730 - Intelligence Architecture v0.7.24.pdf](https://github.com/Errum/IntelArchitectureMap/files/6907194/210730.-.Intelligence.Architecture.v0.7.24.pdf)
+
