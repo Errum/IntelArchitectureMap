@@ -9,3 +9,4 @@ You can download the PDF by right-clicking and download:
 
 [210730 - Intelligence Architecture v0.7.24.pdf](https://github.com/Errum/IntelArchitectureMap/files/6907194/210730.-.Intelligence.Architecture.v0.7.24.pdf)
 
+![211206 - Intelligence Architecture v0 7 27](https://user-images.githubusercontent.com/48282036/145617903-22015e10-2339-4bc0-9c2a-7e25fce6063f.png?raw=true)
