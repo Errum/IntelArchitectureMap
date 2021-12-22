@@ -6,6 +6,6 @@ An article that describes it and the process can be found here: https://www.link
 
 You can download the PDF by right-clicking and download:
 
-[211216 - Intelligence Architecture v0.7.27.pdf](https://github.com/Errum/IntelArchitectureMap/files/7728443/211216.-.Intelligence.Architecture.v0.7.27.pdf)
+[211222 - Intelligence Architecture v0.7.28.pdf](https://github.com/Errum/IntelArchitectureMap/files/7763165/211222.-.Intelligence.Architecture.v0.7.28.pdf)
 
-![211206 - Intelligence Architecture v0 7 27](https://user-images.githubusercontent.com/48282036/145617903-22015e10-2339-4bc0-9c2a-7e25fce6063f.png?raw=true)
+![211222 - Intelligence Architecture v0 7 28](https://user-images.githubusercontent.com/48282036/147107784-5d9573f4-9565-4f0b-a052-c27c37c45956.png?raw=true)
