@@ -5,7 +5,9 @@ The Intelligence Architecture Mind Map is based on interviews of industry expert
 An article that describes it and the process can be found here: https://www.linkedin.com/pulse/intelligence-architecture-map-freddy-m/
 
 For a much more detailed version compared to the image I would highly suggest you download the PDF by right-clicking and download:
-[220324 - Intelligence Architecture v0.7.29.pdf](https://github.com/Errum/IntelArchitectureMap/files/8344259/220324.-.Intelligence.Architecture.v0.7.29.pdf)
+[220425 - Intelligence Architecture v0.7.30.pdf](https://github.com/Errum/IntelArchitectureMap/files/8553815/220425.-.Intelligence.Architecture.v0.7.30.pdf)
 
+PS! The mind map has grown quite a bit since this project first started and thus the PNG file and quality isn't all that great. I'd suggest you use the PDF file as you can zoom into and still have everything clear regardless of zoom level.
 
-![220324 - Intelligence Architecture v0 7 29](https://user-images.githubusercontent.com/48282036/159982966-6b151346-148f-4236-a80f-1fac1331121e.png?raw=true)
+If you just want the image you can right-click and select download/save as
+![220425 - Intelligence Architecture v0 7 30](https://user-images.githubusercontent.com/48282036/165074386-1be13fc8-a6b7-449d-a280-e8032fb92f9a.png?raw-true)
